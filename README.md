@@ -1,3 +1,7 @@
+![Visitor Count](https://profile-counter.glitch.me/rupambhardwaj4/count.svg)
+
+
+
 # 👋 Hi, I’m Rupam Bhardwaj
 
 ### 🏗️ Creative Developer | Web & Mobile | AI Enthusiast
