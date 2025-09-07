@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I build interactive web & mobile apps, smooth UI a
 | Project | Description | Demo | Screenshot/GIF |
 | ------- | ----------- | ---- | --------------- |
 | [Portfolio](https://github.com/rupambhardwaj4/Portfolio) | Personal portfolio website | [Live](https://rupambhardwaj4.github.io/Portfolio/) | ![Portfolio Demo](assets/images/portfolio.gif) |
-| [Project2](zesot) | Description of Project2 | [Live](https://zesot.netlify.app/) | ![Project2 Demo](link-to-gif-or-image) |
-| [Project3](yum-maker) | Description of Project3 | [Live](https://yum-maker.netlify.app/) | ![Project3 Demo](link-to-gif-or-image) |
+| [Zesot](zesot) | Description of Project2 | [Live](https://zesot.netlify.app/) | ![Project2 Demo](link-to-gif-or-image) |
+| [Yum Maker](yum-maker) | Description of Project3 | [Live](https://yum-maker.netlify.app/) | ![Project3 Demo](link-to-gif-or-image) |
 
 
 ---
