@@ -35,12 +35,12 @@ Welcome to my GitHub profile! I build interactive web & mobile apps, smooth UI a
 
 ## 🚀 Featured Projects
 
-| Project | Description | Demo | Screenshot/GIF |
-| ------- | ----------- | ---- | --------------- |
-| [Portfolio](https://github.com/rupambhardwaj4/Portfolio) | Personal portfolio website | [Live](https://rupambhardwaj4.github.io/Portfolio/) | ![Portfolio Demo](assets/images/portfolio.gif) |
-| [Zesot](zesot) | Description of Project2 | [Live](https://zesot.netlify.app/) | ![Project2 Demo](link-to-gif-or-image) |
-| [Yum Maker](yum-maker) | Description of Project3 | [Live](https://yum-maker.netlify.app/) | ![Project3 Demo](link-to-gif-or-image) |
-| [QT Consultancy](https://github.com/rupambhardwaj4/QT-consultancy) | A modern consultancy website with responsive design, Privacy Policy & Terms pages | [Live](https://rupambhardwaj4.github.io/QT-consultancy/) | ![QT Consultancy Demo](assets/images/hero.jpg) |
+| Project | Description | Demo | 
+| ------- | ----------- | ---- | 
+| [Portfolio](https://github.com/rupambhardwaj4/Portfolio) | A personal portfolio website to showcase skills, projects, and achievements with a clean responsive UI. | [Live](https://rupambhardwaj4.github.io/Portfolio/) |
+| [Zesot](zesot) |  A modern landing page prototype with smooth animations and responsive layout for product/service showcase.| [Live](https://zesot.netlify.app/) |
+| [Yum Maker](yum-maker) | A recipe generator web app that suggests meals with ingredients and instructions using a simple UI. | [Live](https://yum-maker.netlify.app/) |
+| [QT Consultancy](https://github.com/rupambhardwaj4/QT-consultancy) | A modern consultancy website with responsive design, Privacy Policy & Terms pages | [Live](https://rupambhardwaj4.github.io/QT-consultancy/) | 
 
 
 ---
