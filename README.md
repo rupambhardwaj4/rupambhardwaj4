@@ -107,8 +107,8 @@ Building **CampusCode** 🏆 — a competitive programming platform that helps t
 
 <div align="center">
 
-[![Live Site](https://img.shields.io/badge/→%20Visit%20Live-0099ff?style=for-the-badge&logo=github-pages&logoColor=white)](https://rupambhardwaj4.github.io/Portfolio/)
-[![Repository](https://img.shields.io/badge/→%20View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupambhardwaj4/Portfolio)
+[![Live Site](https://img.shields.io/badge/→%20Visit%20Live-0099ff?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhardwajportfolio.netlify.app/)
+[![Repository](https://img.shields.io/badge/→%20View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupambhardwaj4/Portfolio-)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -171,11 +171,11 @@ Professional business website with responsive design, Privacy Policy & Terms pag
 
 | Skill | Level | Progress |
 |-------|-------|----------|
-| **Backend Development** | Advanced | ████████░ 80% |
+| **Backend Development** | Intermediate | ████████░ 80% |
 | **Frontend Development** | Intermediate | ███████░░ 70% |
 | **Database Design** | Intermediate | ██████░░░ 60% |
-| **DevOps & Docker** | Intermediate | ██████░░░ 60% |
-| **Problem Solving** | Expert | █████████ 90% |
+| **DevOps & Docker** | Basics | ██████░░░ 60% |
+| **Problem Solving** | Intermediate | █████████ 90% |
 | **Learning Speed** | Expert | █████████ 95% |
 
 </div>
